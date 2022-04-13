@@ -37,6 +37,7 @@ public class ExercicioSwit {
                 break;
             default:
                 dia = "invalido";
+          
 
         }
         System.out.println("Dia escolhido foi: " + dia);
