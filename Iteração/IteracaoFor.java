@@ -10,7 +10,7 @@ public class IteracaoFor {
 
 
 
-		Double[] carrinhoDeCompras = new Double[]{ 50.0, 51.0, 52.0 };
+		Double[] carrinhoDeCompras = new Double[]{ 50.0, 51.0, 52.0 }; // vetor e obrigatorio usar tipos wraper lembre se de equals
 		Double total = 0.0;
 		for(int i = 0; i < carrinhoDeCompras.length; i++) {
 			System.out.println("Iteração: " + i + ", Total: " + total);
