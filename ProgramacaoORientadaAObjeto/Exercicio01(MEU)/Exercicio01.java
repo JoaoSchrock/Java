@@ -14,7 +14,7 @@ public class Exercicio01 {
         Produto1 FoneDeOuvido = new Produto1();
         FoneDeOuvido.nome = "Xiaome Earbuds Airdots S";
         FoneDeOuvido.quantidadeEstoque = 10;
-        System.out.println("Necessario repor estoque do porduto " + FoneDeOuvido.nome + "? " + necessidadeDeReporOEstoque(FoneDeOuvido));
+        System.out.println("Necessario repor estoque do produto " + FoneDeOuvido.nome + "? " + necessidadeDeReporOEstoque(FoneDeOuvido));
     }
 
     static Boolean necessidadeDeReporOEstoque(Produto1 produto1){
