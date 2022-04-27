@@ -14,7 +14,16 @@ public class Exercicio01 {
         Produto1 FoneDeOuvido = new Produto1();
         FoneDeOuvido.nome = "edifier w800bt";
         FoneDeOuvido.quantidadeEstoque = 10;
+        System.out.println("Necessario repor estoque do porduto " + FoneDeOuvido.nome + "? " + necessidadeDeReporOEstoque(FoneDeOuvido));
     }
+
+    static Boolean necessidadeDeReporOEstoque(Produto1 produto1){
+        if (produto1.quantidadeEstoque < Produto1.MINIMO_DE_ESTOQUE){
+            return  true;
+        }
+        return false;
+    }
+
 
     }
 
