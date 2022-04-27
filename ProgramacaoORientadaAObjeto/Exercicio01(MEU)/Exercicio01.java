@@ -12,7 +12,7 @@ No final, você vai exibir, no console, se é necessária a reposição ou não.
 public class Exercicio01 {
     public static void main(String[] args) {
         Produto1 FoneDeOuvido = new Produto1();
-        FoneDeOuvido.nome = "edifier w800bt";
+        FoneDeOuvido.nome = "Xiaome Earbuds Airdots S";
         FoneDeOuvido.quantidadeEstoque = 10;
         System.out.println("Necessario repor estoque do porduto " + FoneDeOuvido.nome + "? " + necessidadeDeReporOEstoque(FoneDeOuvido));
     }
