@@ -5,7 +5,7 @@
 ### [ Lista 2 Python - Estrutura De Desição ](https://github.com/JoaoSchrock/Java/tree/main/Lista%202%20-%20Estrutura%20de%20Desi%C3%A7%C3%A3o/EstruturadeDesi-o-main/)
 ----
 
-## 2- Links Dos Repositorios
+## 2- Logica De Programação
 ### [01 - Teste](https://github.com/JoaoSchrock/Java/tree/main/Testes/)
 
 ----
@@ -39,4 +39,11 @@
 ### [11 - Algoritmos Avançados](https://github.com/JoaoSchrock/Java/tree/main/algoritmos_avancados/)
 
 ----
+## 2- Orientação a Objeto
+### [01 - Valores Padrão](https://github.com/JoaoSchrock/Java/tree/main/valores_padrao/)
+----
+### [02 - Composição Objetos](https://github.com/JoaoSchrock/Java/tree/main/composicaoObjetos/)
+----
+### [11 - Acessando Atributos de Objetos](https://github.com/JoaoSchrock/Java/tree/main/acessando_Atributos_de_Objetos/)
+
 
