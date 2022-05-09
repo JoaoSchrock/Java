@@ -53,6 +53,6 @@
 ## 2 Parte - Orientação a Objeto
 ### [01 - This (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/)
 ----
-### [01 - This (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/)
+### [02 - Construtor (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/OrientacaoAobjetoParte2/)
 ----
 
