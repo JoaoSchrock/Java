@@ -45,12 +45,14 @@
 ----
 ### [02 - Composição Objetos](https://github.com/JoaoSchrock/Java/tree/main/composicaoObjetos/)
 ----
-### [11 - Acessando Atributos de Objetos](https://github.com/JoaoSchrock/Java/tree/main/acessando_Atributos_de_Objetos/)
+### [03 - Acessando Atributos de Objetos](https://github.com/JoaoSchrock/Java/tree/main/acessando_Atributos_de_Objetos/)
 ----
-### [12 - Array (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/Arrays/exercicio/)
+### [04 - Array (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/Arrays/exercicio/)
 ----
-### [13 - This (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/)
-----
-## 2 Parte - Orientação a Objeto
 
+## 2 Parte - Orientação a Objeto
+### [01 - This (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/)
+----
+### [01 - This (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/)
+----
 
