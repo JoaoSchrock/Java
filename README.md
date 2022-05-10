@@ -55,6 +55,6 @@
 ----
 ### [02 - Construtor (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/OrientacaoAobjetoParte2/)
 ----
-### [03 - Encapsulamento Modificado (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/OrientacaoAobjetoParte2/)
+### [03 - Encapsulamento Modificado (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/encapsulamentoemodificadoresdeacessopubliceprivate/)
 ----
 
