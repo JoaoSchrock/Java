@@ -57,4 +57,7 @@
 ----
 ### [03 - Encapsulamento Modificado (Materia e Exercicios)](https://github.com/JoaoSchrock/Java/tree/main/encapsulamentoemodificadoresdeacessopubliceprivate/)
 ----
+### [04 - Desafio (This e Construtores)](https://github.com/JoaoSchrock/Java/tree/main/o_objeto_this/desafio_objeto_this_e_construtores/)
+----
+
 
