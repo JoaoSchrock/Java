@@ -1,4 +1,4 @@
-# Java
+# _Guia de Packages Java._
 
 ## 1- Exercicios Python Brasil (Feitos em Java).
 ### [ Lista 1 Python - Estrutura Sequencial ](https://github.com/JoaoSchrock/Java/tree/main/Lista%201%20-%20Estrutura%20Sequencial/Exercicio-sequencial-main/)
