@@ -25,7 +25,7 @@ public class Barco implements Seguravel{
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        long Calculo = (Valor + 101000L);
+        long Calculo = (Valor / 100L);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
