@@ -24,7 +24,7 @@ public class Notebook implements Seguravel{
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        long Calculo = (Valor + 103000L);
+        long Calculo = (Valor * 2L / 45);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
