@@ -24,7 +24,7 @@ public class  Carro implements Seguravel {
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        long Calculo = (Valor + 100000L);
+        long Calculo = (Valor / 100L * 2);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
