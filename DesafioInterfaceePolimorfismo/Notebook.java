@@ -6,7 +6,7 @@ public class Notebook implements Seguravel{
 
     public String Tipo = "Nootebook";
     public String Marca = "DEEL";
-    public int Valor = (int) 12.000;
+    public long Valor = 12000L;
     public String RAM = "4G RAM";
 
 
@@ -24,7 +24,7 @@ public class Notebook implements Seguravel{
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        int Calculo = (int) (Valor + 103.000);
+        long Calculo = (Valor + 103000L);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
