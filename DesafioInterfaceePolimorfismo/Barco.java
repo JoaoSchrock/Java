@@ -7,7 +7,7 @@ public class Barco implements Seguravel{
     public String Tipo = "Lancha";
     public String Ano = "2015";
     public String Modelo = "Fibraforte";
-    public int Valor = (int) 125.000;
+    public long Valor = 125000L;
 
 
 
@@ -25,7 +25,7 @@ public class Barco implements Seguravel{
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        int Calculo = (int) (Valor + 101.000);
+        long Calculo = (Valor + 101000L);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
