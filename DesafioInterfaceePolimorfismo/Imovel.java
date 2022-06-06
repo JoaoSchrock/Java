@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Imovel implements Seguravel {
 
     public String nivelBairro = "Exelente";
-    public int Valor = (int) 100.000;
+    public long Valor = 100000L;
     public String Localidade = "Nova Almeida";
     public String Quartos = "5 Quartos";
     public String Banheiros = "5 Banheiros";
@@ -30,7 +30,7 @@ public class Imovel implements Seguravel {
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        int Calculo = (int) (Valor + 102.000);
+        long Calculo = (Valor + 102000L);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
