@@ -33,6 +33,11 @@ public class Principal {
         }
         else if(desejoDoUsuario == 2){
             System.out.println("Obrigado Por sua resposta! Até mais.");
+         }else{
+            System.err.println("Digito Incorreto\n1 - SIM\n2 - NAO");
+            return;
+
+
         }
     }
 
