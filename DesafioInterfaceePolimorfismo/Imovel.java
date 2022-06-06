@@ -30,7 +30,7 @@ public class Imovel implements Seguravel {
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        long Calculo = (Valor + 102000L);
+        long Calculo = (Valor / 50L * 5);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
