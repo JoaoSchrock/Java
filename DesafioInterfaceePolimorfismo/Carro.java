@@ -7,7 +7,7 @@ public class  Carro implements Seguravel {
     public String Marca = "Porche";
     public String Ano = "2022";
     public String Modelo = "Cayenne";
-    public int Valor = (int) 549.000;
+    public long Valor = 549000L;
 
 
 
@@ -24,7 +24,7 @@ public class  Carro implements Seguravel {
     @Override
     public void calcularValorApolice() {
         Scanner s  = new Scanner(System.in);
-        int Calculo = (int) (Valor + 100.000);
+        long Calculo = (Valor + 100000L);
         System.out.println("Calculo Apolice: " + Calculo);
 
     }
