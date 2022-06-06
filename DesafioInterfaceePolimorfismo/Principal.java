@@ -13,7 +13,7 @@ public class Principal {
         int desejoDoUsuario = scanner.nextInt();
 
         if(desejoDoUsuario == 1){
-            System.out.println("___ SCHROCK ___");
+            System.out.println("__ SCHROCK SEGURADORA __");
             Carro carro = new Carro();
             System.out.println("( INFORMACOES DO CARRO )\n");
             carro.obterDescricao();
