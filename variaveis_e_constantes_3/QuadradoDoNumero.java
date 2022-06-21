@@ -12,3 +12,5 @@ public class QuadradoDoNumero {
         scanner.close();
     }
 }
+
+ola
