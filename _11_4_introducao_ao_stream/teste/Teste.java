@@ -9,5 +9,16 @@ public class Teste {
     public static void main(String[] args) {
         List<Fatura> faturas = new FaturaDAO().buscartodasasfaturas(); // buscar em um metodo de instancia
 
+
+
+      /*  for (Fatura f : faturas){
+            if (f.getValor() > 250){
+                System.err.println("Alerta: Fatura acima de 250.0 R$ -> " + f);
+            }
+        }*/
+
+        faturas.stream()
+                .filter(Fatura::estaEmRisco)
+                .forEach(System.out::println);
     }
 }

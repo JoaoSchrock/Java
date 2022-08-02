@@ -32,4 +32,9 @@ public class Fatura {
                 ", valor=" + valor +
                 '}';
     }
+
+    public boolean estaEmRisco() {
+        return valor >= 250 ? true : false;
+
+    }
 }

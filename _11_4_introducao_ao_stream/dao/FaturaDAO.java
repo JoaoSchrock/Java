@@ -12,8 +12,8 @@ public class FaturaDAO {
 
         List<Fatura> faturas = new ArrayList<>();
         faturas.add(new Fatura("Joaoschrock@gmail.com", 350.0));
-        faturas.add(new Fatura("LarissaSchrock@gmail.com", 350.0));
-        faturas.add(new Fatura("DeniseSchrock@gmail.com", 350.0));
+        faturas.add(new Fatura("LarissaSchrock@gmail.com", 150.0));
+        faturas.add(new Fatura("DeniseSchrock@gmail.com", 290.0));
     return faturas;
     }
 
