@@ -143,15 +143,16 @@
 
 ### [03 - Diamond (10-3)](https://github.com/JoaoSchrock/Java/tree/main/_10_3_diamond/)
 ----
+# Java _2º Modulo_
+
 ###    _Novidades Do  Java 8_  
 ----      
 ### [01 - Introdução a o Lambda (11-1)](https://github.com/JoaoSchrock/Java/tree/main/_11_1_introducao_ao_lambda_/)
 
-### [02 - Referencia a Metodos (11-2)](https://github.com/JoaoSchrock/Java/tree/main/_11_2_referencia_a_metodos_/)
+### [02 - Referencia a Metodos (11-2)](https://github.com/JoaoSchrock/Java/tree/main/_11_2_referencia_a_metodos/)
 
- # Java _2º Modulo_
+### [03 - Interfaces Funcionais (11-3)](https://github.com/JoaoSchrock/Java/tree/main/_11_3_interfaces_funcionais/)
 
-### [01 - Referencia a Metodos (11-2)](https://github.com/JoaoSchrock/Java/tree/main/_11_2_referencia_a_metodos/)
+### [04 - Introdução ao Stream (11-4)](https://github.com/JoaoSchrock/Java/tree/main/_11_4_introducao_ao_stream/)
 
-### [01 - Interfaces Funcionais (11-3)](https://github.com/JoaoSchrock/Java/tree/main/_11_3_interfaces_funcionais/)
 
