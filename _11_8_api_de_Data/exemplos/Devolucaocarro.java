@@ -10,6 +10,7 @@ public class Devolucaocarro {
     public static void main(String[] args) {
         Aluguel aluguel = recuperarAluguel();
 
+        //para cada hora de atraso, ele paga 10% do valor do carro em multa
         LocalDateTime dataEHoraRealDaDevolucao = LocalDateTime.of(LocalDate.now().plusDays(5), LocalTime.now());
         aluguel.setDataeHoraRealDadevolucao(dataEHoraRealDaDevolucao);
         aluguel.imprimirFatura();
